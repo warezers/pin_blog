@@ -31,6 +31,7 @@ gem 'simple_form', '~> 3.5'
 gem 'devise', '~> 4.3'
 gem 'paperclip', '~> 5.1'
 gem 'masonry-rails', '~> 0.2.4'
+gem 'acts_as_votable', '~> 0.11.1'
 
 
 group :development, :test do
